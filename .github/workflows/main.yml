@@ -4,7 +4,7 @@ env:
   kernel_repository: UtsavBalar1231/kernel_xiaomi_sm8250
   kernel_branch: android13-stable
   device: alioth
-  clang_version: r416183b
+  clang_version: r450784e
   defconfig: |
     alioth_defconfig
   kernel_patch: |
